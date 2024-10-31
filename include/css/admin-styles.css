@@ -1,0 +1,7 @@
+table.form-table th {
+    width: 300px;
+}
+table.form-table td input[type="text"] {
+    padding: 7px;
+}
+
